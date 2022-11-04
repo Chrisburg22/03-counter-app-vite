@@ -9,6 +9,9 @@
  */
 
 // EXPORTACION INDEPENDIENTE
-export function App() {
+export function HelloWorldApp() {
     return ( <h1>Hola mundo!!</h1> );//JSCX
 }
+
+
+//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
