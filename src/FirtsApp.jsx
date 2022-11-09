@@ -1,13 +1,11 @@
 
-const getResult = (a,b) => {
-    return a + b;
-}
-
 export const FirstApp = () =>{
+
+
 
     return ( 
         <>
-            <h1>{getResult(10,11)}</h1> 
+            <h1>Christian</h1> 
             {/*<code> { JSON.stringify{ newMessage } } </code> */}
             <p>Curso de React</p>
         </>
