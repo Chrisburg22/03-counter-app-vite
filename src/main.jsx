@@ -8,6 +8,6 @@ import './styles.css' //Importando estilos
 //Renderizado de un componente en el DOM.
 ReactDOM.createRoot( document.getElementById('root') ).render(
     <React.StrictMode>
-        <CounterApp value={125}/>
+        <CounterApp value={10}/>
     </React.StrictMode>
 );
